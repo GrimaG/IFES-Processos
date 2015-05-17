@@ -30,15 +30,79 @@
         <li><a href="#">Cadastar Setor</a></li>
         <li><a href="#about">Cadastrar Processo</a></li>
         <li><a href="#contact">Localizar Processo</a></li>
-             <li><a href="#about">Meus Processos</a></li>
-        <li><a href="#contact" id="aPendentes" runat="server">Processos Pententes - </a></li>
-      </ul>
+              </ul>
     </div><!--/.nav-collapse -->
   </div>
 </div>
+       
+  <br />
+               
+  <br />
+               
+  <br />       
+  <br />       
+  <br />       
+  <br />       
+  <br />
+        <div class="container">
+  
+  <div class="text-center">
+      <!--tabs-->
+      <div class="container">
+        <ul class="nav nav-tabs" id="myTab">
+          <li class="active"><a href="#profile" data-toggle="tab">Profile</a></li>
+          <li><a href="#messages" data-toggle="tab">Messages</a></li>
+          <li><a href="#settings" data-toggle="tab">Settings</a></li>
+        </ul>
+        
+        <div class="tab-content">
+          <div class="tab-pane active" id="profile">
+            <h4><i class="glyphicon glyphicon-user"></i></h4>
+            Lorem profile dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
+            <p>Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero. Aenean sit amet felis 
+              dolor, in sagittis nisi. Sed ac orci quis tortor imperdiet venenatis. Duis elementum auctor accumsan. 
+              Aliquam in felis sit amet augue.</p>
+          </div>
+          <div class="tab-pane" id="messages">
+            <h4><i class="glyphicon glyphicon-comment"></i></h4>
+            Message ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
+            <p>Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero. Aenean sit amet felis 
+              dolor, in sagittis nisi. Sed ac orci quis tortor imperdiet venenatis. Duis elementum auctor accumsan. 
+              Aliquam in felis sit amet augue.</p>
+          </div>
+          <div class="tab-pane" id="settings">
+            <h4><i class="glyphicon glyphicon-cog"></i></h4>
+            Lorem settings dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. 
+            <p>Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero. Aenean sit amet felis 
+              dolor, in sagittis nisi. Sed ac orci quis tortor imperdiet venenatis. Duis elementum auctor accumsan. 
+              Aliquam in felis sit amet augue.</p>
+          </div>
+        </div>
+      </div>
+      <!--/tabs-->
+  </div>
+  
+</div>
+        
+        
+        
+        
+                    
+    
+     
 
-		</form>
+
+
+
+
+
+
+
+
+
+
 	</body>
+    		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
     <script src="Scripts/bootstrap.min.js"></script>
 <link href="Content/styles.css" rel="stylesheet" />
 <link href="Content/Site.css" rel="stylesheet" />

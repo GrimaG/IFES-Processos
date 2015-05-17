@@ -12,8 +12,7 @@ namespace br.ifes.edu.es.ifesprocesso
         protected void Page_Load(object sender, EventArgs e)
         {
             String strValorSession = Session["UsuarioID"].ToString();
-            btn_Cadastrar.Text = Session["UsuarioID"].ToString();
-        }
+                   }
 
         protected void ainicial_Click(object sender, EventArgs e)
         {
