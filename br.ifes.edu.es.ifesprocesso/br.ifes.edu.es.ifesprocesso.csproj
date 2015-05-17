@@ -126,6 +126,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Account\OpenAuthProviders.ascx" />
+    <Content Include="Cadastrar_Processo.aspx" />
+    <Content Include="Cadastrar_Setor.aspx" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Content\styles.css" />
@@ -254,6 +256,20 @@
       <DependentUpon>OpenAuthProviders.ascx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Cadastrar_Processo.aspx.cs">
+      <DependentUpon>Cadastrar_Processo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cadastrar_Processo.aspx.designer.cs">
+      <DependentUpon>Cadastrar_Processo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastrar_Setor.aspx.cs">
+      <DependentUpon>Cadastrar_Setor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cadastrar_Setor.aspx.designer.cs">
+      <DependentUpon>Cadastrar_Setor.aspx</DependentUpon>
+    </Compile>
     <Compile Include="cdp\Processo.cs" />
     <Compile Include="cdp\Setor.cs" />
     <Compile Include="cdp\Usuario.cs" />
