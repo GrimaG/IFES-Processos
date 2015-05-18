@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using Microsoft.AspNet.Membership.OpenAuth;
+using MySql.Data.MySqlClient;
 
 namespace br.ifes.edu.es.ifesprocesso
 {

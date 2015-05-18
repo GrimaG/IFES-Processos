@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using MySql.Data.MySqlClient;
 
 namespace br.ifes.edu.es.ifesprocesso.cdp
 {
@@ -35,6 +36,14 @@ namespace br.ifes.edu.es.ifesprocesso.cdp
         {
             get { return protocolo; }
             set { protocolo = value; }
+        }
+        private String situacao;
+
+        public String funcSituacao
+        {
+            get
+            { return situacao; }
+            set { situacao = value; }
         }
 
         List<Setor> setores;
