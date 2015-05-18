@@ -31,37 +31,3 @@ c:\users\yago\documents\visual studio 2012\Projects\br.ifes.edu.es.ifesprocesso\
 c:\users\yago\documents\visual studio 2012\Projects\br.ifes.edu.es.ifesprocesso\br.ifes.edu.es.ifesprocesso\obj\Debug\br.ifes.edu.es.ifesprocesso.csprojResolveAssemblyReference.cache
 c:\users\yago\documents\visual studio 2012\Projects\br.ifes.edu.es.ifesprocesso\br.ifes.edu.es.ifesprocesso\obj\Debug\br.ifes.edu.es.ifesprocesso.dll
 c:\users\yago\documents\visual studio 2012\Projects\br.ifes.edu.es.ifesprocesso\br.ifes.edu.es.ifesprocesso\obj\Debug\br.ifes.edu.es.ifesprocesso.pdb
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\br.ifes.edu.es.ifesprocesso.dll.config
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\br.ifes.edu.es.ifesprocesso.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\br.ifes.edu.es.ifesprocesso.pdb
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\Antlr3.Runtime.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\AspNet.ScriptManager.jQuery.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\DotNetOpenAuth.AspNet.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\DotNetOpenAuth.Core.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\DotNetOpenAuth.OAuth.Consumer.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\DotNetOpenAuth.OAuth.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\DotNetOpenAuth.OpenId.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\EntityFramework.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\Microsoft.AspNet.FriendlyUrls.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\Microsoft.AspNet.Membership.OpenAuth.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\Microsoft.ScriptManager.MSAjax.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\Microsoft.ScriptManager.WebForms.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\System.Web.Optimization.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\System.Web.Providers.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\WebGrease.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\EntityFramework.xml
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\DotNetOpenAuth.Core.xml
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\DotNetOpenAuth.OAuth.xml
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\DotNetOpenAuth.OAuth.Consumer.xml
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\DotNetOpenAuth.OpenId.xml
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\DotNetOpenAuth.AspNet.xml
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\Microsoft.AspNet.Membership.OpenAuth.xml
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\bin\Microsoft.AspNet.FriendlyUrls.xml
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\obj\Debug\br.ifes.edu.es.ifesprocesso.csprojResolveAssemblyReference.cache
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\obj\Debug\br.ifes.edu.es.ifesprocesso.dll
-C:\Users\Gustavo\Documents\GitHub\IFES-Processos\br.ifes.edu.es.ifesprocesso\obj\Debug\br.ifes.edu.es.ifesprocesso.pdb

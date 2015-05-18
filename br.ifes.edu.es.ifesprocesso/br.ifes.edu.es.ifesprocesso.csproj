@@ -39,7 +39,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="MySql.Data, Version=6.2.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Data.Entity" />
@@ -274,11 +273,6 @@
     <Compile Include="cdp\Processo.cs" />
     <Compile Include="cdp\Setor.cs" />
     <Compile Include="cdp\Usuario.cs" />
-    <Compile Include="cgd\conection.cs" />
-    <Compile Include="cgd\DAO\DAOProcesso.cs" />
-    <Compile Include="cgd\DAO\DAOSetor.cs" />
-    <Compile Include="cgd\DAO\DAOUsuario.cs" />
-    <Compile Include="cgd\DAO\teste.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
