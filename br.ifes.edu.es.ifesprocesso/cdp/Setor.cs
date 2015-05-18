@@ -30,8 +30,9 @@ namespace br.ifes.edu.es.ifesprocesso.cdp
             set { nomeResponsavel = value; }
         }
 
-        List<Processo> processos;
-        List<Processo> dependentes;
+        public List<Processo> processos;
+
+        public List<Processo> dependentes;
 
 
 

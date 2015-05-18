@@ -46,6 +46,14 @@ namespace br.ifes.edu.es.ifesprocesso.cdp
             set { situacao = value; }
         }
 
-        List<Setor> setores;
+        private String descricao;
+
+        public String funcDescricao
+        {
+            get { return descricao; }
+            set { descricao = value; }
+        }
+
+        public List<Setor> setores;
    }
 }
